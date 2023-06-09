@@ -1,0 +1,49 @@
+.container {
+  width: 1440px;
+  height: 270px;
+  left: 0px;
+  top: 74px;
+  padding-top: 4rem;
+  padding-bottom: 0px;
+  margin-top: 40px;
+  margin-bottom: 0px;
+}
+
+.heading {
+  position: absolute;
+  left: 368px;
+  top: 171px;
+  width: 473px;
+  height: 48px;
+  margin-bottom: 8px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 48px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.para {
+  position: absolute;
+  width: 556px;
+  height: 48px;
+  left: 327px;
+  top: 223px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 48px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.headphone-icon {
+  position: absolute;
+  width: 212px;
+  height: 212px;
+  left: 800px;
+  top: 140px;
+}
